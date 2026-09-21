@@ -134,6 +134,6 @@ The interactive Excel dashboard provides analysis across multiple business dimen
 
 ## 📁 Project Files
 
-- [📊 Sales Dashboard](Sales_dashboard.xlsm)
+- [📊 Sales Dashboard](Sales-dashboard.xlsm)
 - [🗄️ Raw Dataset](Data/AdventureWorks.xlsx)
 - [📖 Data Dictionary](Documentation/data_dictionary.md)
