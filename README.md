@@ -43,8 +43,8 @@ excel-sales-dashboard/
 │   └── AdventureWorks.xlsx
 │
 ├── Screenshots/
-│   ├── dashboard_overview.png
-│   └── product_customer_detail.png
+│   ├── Dashboard-overview.png
+│   └── Product-customer-analysis.png
 │
 └── Documentation/
     └── data_dictionary.md
@@ -106,11 +106,11 @@ The interactive Excel dashboard provides analysis across multiple business dimen
 
 ### Dashboard Overview
 
-![Dashboard Overview](Screenshots/Dashboard_overview.png)
+![Dashboard Overview](Screenshots/Dashboard-overview.png)
 
 ### Product & Customer Analysis
 
-![Product and Customer Analysis](Screenshots/Product_customer_analysis.png)
+![Product and Customer Analysis](Screenshots/Product-customer-analysis.png)
 
 ## 💡 Key Insights
 
@@ -135,10 +135,10 @@ The interactive Excel dashboard provides analysis across multiple business dimen
 ## 📁 Project Files
 
 **Sales Dashboard:**
-`Sales_Dashboard.xlsx`
+`Sales_dashboard.xlsm`
 
 **Raw Dataset:**
-`data/AdventureWorks_Database.xlsx`
+`Data/AdventureWorks.xlsx`
 
 **Data Dictionary:**
-`documentation/data_dictionary.md`
+`Documentation/data_dictionary.md`
