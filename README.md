@@ -37,16 +37,16 @@ Interactive Excel Dashboard
 excel-sales-dashboard/
 │
 ├── README.md
-├── Sales_Dashboard.xlsx
+├── Sales_dashboard.xlsm
 │
-├── data/
-│   └── AdventureWorks_Database.xlsx
+├── Data/
+│   └── AdventureWorks.xlsx
 │
-├── screenshots/
+├── Screenshots/
 │   ├── dashboard_overview.png
 │   └── product_customer_detail.png
 │
-└── documentation/
+└── Documentation/
     └── data_dictionary.md
 ```
 
@@ -106,11 +106,11 @@ The interactive Excel dashboard provides analysis across multiple business dimen
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/Dashboard_overview.png)
 
 ### Product & Customer Analysis
 
-![Product and Customer Analysis](screenshots/product_customer_detail.png)
+![Product and Customer Analysis](Screenshots/Product_customer_analysis.png)
 
 ## 💡 Key Insights
 
